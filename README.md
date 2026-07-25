@@ -94,22 +94,15 @@
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mustakim-error&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff&icon_color=00c2ff&bg_color=0d1117&text_color=c0caf5" width="100%" alt="Mustakim's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" width="100%" alt="Mustakim's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakim-error&layout=compact&theme=tokyonight&hide_border=true&title_color=00c2ff&bg_color=0d1117&text_color=c0caf5" width="48%" alt="Top Languages" />
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustakim-error&theme=tokyonight" alt="Top Languages" />
+  </p>
 </div>
 
 <br/>
