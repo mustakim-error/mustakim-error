@@ -128,12 +128,10 @@
 
 ---
 
-### 🌟 Featured Repositories & Work
+### 💻 Weekly Code Breakdown
 
 <div align="center">
-  <a href="https://github.com/mustakim-error?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustakim-error&repo=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pinned Repo" />
-  </a>
+  <img src="https://wakatime.com/badge/user/mustakim-error.svg" alt="Wakatime Weekly Badge" />
 </div>
 
 ---
