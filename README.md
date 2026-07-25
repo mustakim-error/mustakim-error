@@ -128,14 +128,10 @@
 
 ---
 
-### 📈 GitHub Contribution Snake Animation
+### 📈 GitHub Activity Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake animation" src="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff" alt="Activity Graph" width="100%" />
 </div>
 
 ---
