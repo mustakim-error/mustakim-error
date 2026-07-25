@@ -58,7 +58,7 @@
 <p align="center"><em>Cutting-edge tools, languages, and frameworks I leverage to engineer elite-tier digital products.</em></p>
 
 #### 🌐 Languages & Core
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -67,7 +67,7 @@
 </div>
 
 #### ⚛️ Frontend Architecture
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -76,7 +76,7 @@
 </div>
 
 #### ⚙️ Backend & Databases
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -85,7 +85,7 @@
 </div>
 
 #### ☁️ Cloud, DevOps & Tools
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -130,7 +130,7 @@
 
 ### 🧠 Core Engineering & Architecture
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="33%" align="center">
       <b>⚡ Frontend Engineering</b><br/>
