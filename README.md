@@ -99,17 +99,17 @@ class Developer {
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RealCodeMind&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff&icon_color=00c2ff&bg_color=0d1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mustakim-error&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff&icon_color=00c2ff&bg_color=0d1117" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealCodeMind&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealCodeMind&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ class Developer {
 ### 🏆 Hall of Fame
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RealCodeMind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mustakim-error&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
