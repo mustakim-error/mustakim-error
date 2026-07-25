@@ -128,12 +128,13 @@
 
 ---
 
-### ⏰ GitHub Activity Clock
+### 🌟 Featured Repositories & Work
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakim-error&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+  <a href="https://github.com/mustakim-error?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustakim-error&repo=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pinned Repo" />
+  </a>
 </div>
-
 ---
 
 ### 🎯 Current Focus & Engineering Roadmap
