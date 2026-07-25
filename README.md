@@ -134,7 +134,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake animation" src="https://raw.githubusercontent.com/mustakim-error/mustakim-error/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
