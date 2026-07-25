@@ -128,11 +128,33 @@
 
 ---
 
-### 💻 Weekly Code Breakdown
+### 🧠 Core Engineering & Architecture
 
-<div align="center">
-  <img src="https://wakatime.com/badge/user/mustakim-error.svg" alt="Wakatime Weekly Badge" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>⚡ Frontend Engineering</b><br/>
+      <sub>React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>⚙️ Backend & APIs</b><br/>
+      <sub>Node.js, Express.js, RESTful APIs, Microservices</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🗄️ Database & DevOps</b><br/>
+      <sub>MongoDB, Firebase, Docker, Git, Vercel, Netlify</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Professional Milestones & Highlights
+
+- 💼 **Full-Stack Mastery:** Architecting robust, high-performance web platforms focusing on extreme speed and scalability.
+- 🎨 **UI/UX Craftsmanship:** Designing clean, accessible, and human-centric interfaces with seamless user journeys.
+- 🚀 **Open Source & Innovation:** Actively building and deploying modern developer tools, templates, and web applications.
+- 📈 **Problem Solving:** Translating complex business logic and requirements into clean, production-ready code architectures.
 
 ---
 
