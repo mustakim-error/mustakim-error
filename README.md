@@ -128,10 +128,10 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+### ⏰ GitHub Activity Clock
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustakim-error&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustakim-error&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </div>
 
 ---
