@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,20,30&height=180&section=header&text=Mustakim%20Nur%20Salin&fontSize=42&fontAlignY=40&fontColor=00c2ff&desc=Full-Stack%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Creator&descAlignY=70&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,15,25,35&height=180&section=header&text=Mustakim%20Nur%20Salin&fontSize=42&fontAlignY=35&fontColor=00c2ff&desc=Full-Stack%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Creator&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://mustakim.iam.bd/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mustakim-error"><img src="https://komarev.com/ghpvc/?username=mustakim-error&label=TOTAL+PROFILE+VIEWS&color=00c2ff&style=for-the-badge&logo=github" alt="Profile Views" /></a>
-  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/🌐_Portfolio-0a0e17?style=for-the-badge&logo=About.me&logoColor=00c2ff&color=0a0e17" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/👔_LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00c2ff&color=0a0e17" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/🐦_Twitter-0a0e17?style=for-the-badge&logo=twitter&logoColor=00c2ff&color=0a0e17" alt="Twitter" /></a>
-  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=00c2ff&color=0a0e17" alt="Email" /></a>
+  <a href="https://github.com/mustakim-error"><img src="https://img.shields.io/badge/Views-TOTAL%20PROFILE%20VIEWS-00c2ff?style=flat-square&logo=github&logoColor=00c2ff&color=0d1117" alt="Profile Views" /></a>
+  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-00c2ff?style=flat-square&logo=About.me&logoColor=00c2ff&color=0d1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-00c2ff?style=flat-square&logo=linkedin&logoColor=00c2ff&color=0d1117" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-00c2ff?style=flat-square&logo=twitter&logoColor=00c2ff&color=0d1117" alt="Twitter" /></a>
+  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-00c2ff?style=flat-square&logo=gmail&logoColor=00c2ff&color=0d1117" alt="Email" /></a>
 </div>
 
 <br/>
@@ -26,9 +26,10 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
       <p>👋 Hello there! I'm <b>Mustakim Nur Salin</b>, a passionate Full-Stack Software Engineer, UI/UX Designer, and Creative Developer based in Dhaka, Bangladesh 🇧🇩.</p>
       <p>I specialize in building robust, lightning-fast, and user-centric web applications from scratch. My core philosophy is rooted in writing clean, maintainable architecture while delivering immersive digital experiences that captivate users.</p>
+      <br/>
       <ul>
         <li>🔭 Currently working on advanced full-stack cloud ecosystems & modern SaaS platforms.</li>
         <li>🌱 Exploring deep architecture patterns, AI integration, and high-performance UI systems.</li>
@@ -36,7 +37,7 @@
         <li>📫 Reach out anytime at <a href="mailto:mustakimnursalin@gmail.com"><b>mustakimnursalin@gmail.com</b></a></li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="42%" valign="top">
       ```json
       {
         "engineer": "Mustakim Nur Salin",
@@ -57,54 +58,68 @@
 
 <p align="center"><em>Cutting-edge tools, languages, and frameworks I leverage to engineer elite-tier digital products.</em></p>
 
-#### 🌐 Languages & Core
+<details open>
+<summary><b>🌐 Languages & Core</b></summary>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-(ES6+)-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </div>
+</details>
 
-#### ⚛️ Frontend Architecture
+<details open>
+<summary><b>⚛️ Frontend Architecture</b></summary>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0d1117?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </div>
+</details>
 
-#### ⚙️ Backend & Databases
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF5722?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=postman&logoColor=FF5722" alt="REST API" />
 </div>
+</details>
 
-#### ☁️ Cloud, DevOps & Tools
+<details open>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" alt="Photoshop" />
 </div>
+</details>
 
 ---
 
 ### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" />
-  </p>
+  <table>
+    <tr>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" /></td>
+      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustakim-error&theme=tokyonight" alt="Top Languages" />
   </p>
@@ -130,15 +145,15 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="background: #0d1117; padding: 15px; border-radius: 8px;">
       <b>⚡ Frontend Engineering</b><br/>
       <sub>React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="background: #0d1117; padding: 15px; border-radius: 8px;">
       <b>⚙️ Backend & APIs</b><br/>
       <sub>Node.js, Express.js, RESTful APIs, Microservices</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="background: #0d1117; padding: 15px; border-radius: 8px;">
       <b>🗄️ Database & DevOps</b><br/>
       <sub>MongoDB, Firebase, Docker, Git, Vercel, Netlify</sub>
     </td>
@@ -183,10 +198,10 @@
 <div align="center">
   <p>Have an exciting idea, project, or want to collaborate? My inbox is always open!</p>
 
-  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-00c2ff?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mustakim.iam.bd/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=google-chrome&logoColor=00c2ff&color=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/mustakim-nur-salin"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00c2ff&color=0d1117" /></a>
+  <a href="https://twitter.com/mustakim_error"><img src="https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=twitter&logoColor=00c2ff&color=0d1117" /></a>
+  <a href="mailto:mustakimnursalin@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00c2ff&color=0d1117" /></a>
 </div>
 
 ---
@@ -204,7 +219,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,12,0&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=35,25,15,0&height=100&section=footer" />
 </div>
 
 <div align="center">
