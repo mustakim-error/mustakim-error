@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30&height=220&section=header&text=Mustakim%20Nur%20Salin&fontSize=50&fontAlignY=38&fontColor=00c2ff&desc=Full-Stack%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Creator&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,20,30&height=180&section=header&text=Mustakim%20Nur%20Salin&fontSize=42&fontAlignY=40&fontColor=00c2ff&desc=Full-Stack%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Creator&descAlignY=70&descAlign=50&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://mustakim.iam.bd/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%26+Software+Engineer;UI%2FUX+Designer+%26+Creative+Problem+Solver;Building+Scalable%2C+High-Performance+Web+Apps;Turning+Complex+Ideas+into+Seamless+Digital+Realities" alt="Typing SVG" />
   </a>
 </div>
 
@@ -58,7 +58,7 @@
 <p align="center"><em>Cutting-edge tools, languages, and frameworks I leverage to engineer elite-tier digital products.</em></p>
 
 #### 🌐 Languages & Core
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -67,7 +67,7 @@
 </div>
 
 #### ⚛️ Frontend Architecture
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -76,7 +76,7 @@
 </div>
 
 #### ⚙️ Backend & Databases
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -85,7 +85,7 @@
 </div>
 
 #### ☁️ Cloud, DevOps & Tools
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -101,12 +101,10 @@
 ### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustakim-error&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustakim-error&theme=tokyonight&hide_border=true&stroke=0000&ring=00c2ff&fire=00c2ff&currStreakLabel=00c2ff&bg_color=0d1117&text_color=c0caf5" alt="GitHub Streak" />
+  </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustakim-error&theme=tokyonight" alt="Top Languages" />
   </p>
@@ -206,7 +204,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12,0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,12,0&height=100&section=footer" />
 </div>
 
 <div align="center">
